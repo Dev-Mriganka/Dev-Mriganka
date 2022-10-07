@@ -6,15 +6,22 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Dev-Mriganka/Dev-Mriganka/blob/main/coding-freak%20(1).gif">
 
-- 🔭 I’m currently working on **something cool 😉**
+- 🌱 I’m currently learning **Spring Boot** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-- 🌱 I’m currently learning **Java**
+<!-- Portfolio -->
+- 👨‍💻 Checkout my [Portfolio](https://dev-mriganka.github.io/) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-- 💬 Ask me about **anything, I am happy to help**
 
-- 📫 How to reach me **https://www.linkedin.com/in/mriganka10/**
+<!-- Resume -->
+-  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://drive.google.com/drive/u/0/folders/1hlj2RywFQLkkBV4wIhilqpkFpqdpp7dK) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-- ⚡ Fun fact **I love coding but I don't want to be a coder**
+
+<!-- <img width="30" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > -->
+
+
+- 💬 Ask me about anything, I am happy to help <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+
+- 📫 How to reach me **mrigankamondal10@gmail.com** &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-mriganka&label=Profile%20views&color=0e75b6&style=flat" alt="dev-mriganka" /> </p> -->
 
