@@ -50,7 +50,7 @@
 ## 🚀 Languages and Tools:
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,mongodb,postgres,spring,maven,hibernate,aws,bootstrap,cpp,c,wordpress,git,netlify,idea,eclipse,vscode,figma,au,ai,ps,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,kafka,mysql,mongodb,postgres,spring,maven,hibernate,aws,docker,kubernetes,postman,bootstrap,cpp,c,linux,git,netlify,idea,eclipse,vscode)](https://skillicons.dev)
 
 <br>
 
