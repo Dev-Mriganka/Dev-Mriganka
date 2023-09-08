@@ -50,7 +50,7 @@
 ## 🚀 Languages and Tools:
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,kafka,mysql,mongodb,postgres,spring,maven,hibernate,aws,docker,kubernetes,postman,bootstrap,cpp,c,linux,git,netlify,idea,eclipse,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,kafka,mysql,mongodb,postgres,spring,maven,gradle,hibernate,aws,docker,kubernetes,postman,bootstrap,linux,git)](https://skillicons.dev)
 
 <br>
 
@@ -62,7 +62,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Mriganka&theme=tokyonight" align="center" />
 </p>
 
-
+<!--
 ---
 <div align="center"  >
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -88,9 +88,9 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31kf2npxmc37droaf4jfmz3c5pmi&cover_image=true&theme=default&bar_color_cover=true" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31kf2npxmc37droaf4jfmz3c5pmi&cover_image=true&theme=default&bar_color_cover=true" /></div>
 
-<br/>  
+<br/>  -->
 
 
 <hr>
